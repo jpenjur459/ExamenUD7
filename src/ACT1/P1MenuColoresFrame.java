@@ -14,6 +14,8 @@ public class P1MenuColoresFrame {
 
         ActionRojo rojo = new ActionRojo(ventana);
 
+
+
         menuColores.add(rojo);
         menuColores.add(menuVerde);
         menuColores.add(menuAzul);
